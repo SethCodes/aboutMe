@@ -1,0 +1,57 @@
+body {
+  background-color: beige;
+  padding: 10px;
+  text-align: center;
+}
+
+a {
+  margin-top: 20px;
+  border: 1px solid black;
+  padding: 10px 30px;
+  border-radius: 50px;
+}
+
+a:hover {
+  font-size: 20px;
+  background-color: blanchedalmond;
+}
+
+h2 {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.name {
+  width: 100%;
+  padding: 20px;
+  letter-spacing: 1em;
+}
+
+.profile-image {
+  display: block;
+  height: 300px;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.profile-image:hover {
+  height: 330px;
+  width: auto;
+}
+
+.card {
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px;
+  width: 400px;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+
